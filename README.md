@@ -9,11 +9,11 @@ I'm frontend developer at Huia
 - 🌱 I’m currently learning ReactJS, React Native and NodeJS.
 
 
-![Iza's github stats](https://github-readme-stats.vercel.app/api?username=thomas-soares&show_icons=true&theme=dark)
+![Thomas' github stats](https://github-readme-stats.vercel.app/api?username=thomas-soares&show_icons=true&theme=merko)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-soares&layout=compact&theme=dark)](https://github.com/thomas-soares/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-soares&layout=compact&theme=merko)](https://github.com/thomas-soares/github-readme-stats)
 
 
 
