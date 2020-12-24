@@ -8,7 +8,7 @@ I'm frontend developer at Huia
 - 🌱 I’m currently learning ReactJS, React Native and NodeJS.
 
 <p style="margin: 0;">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thomas-soares&show_icons=true&theme=merko" width="350" height="140" style="margin-right:24px;"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thomas-soares&show_icons=true&theme=merko" style="margin-right:24px;"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-soares&layout=compact&theme=merko"></a>
 </p>
 
