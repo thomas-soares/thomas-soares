@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-soares-339465a6/)](https://www.linkedin.com/in/thomas-soares-339465a6/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soaresthomasp@gmail.com)](mailto:soaresthomasp@gmail.com)
 
-I'm frontend developer at CI&T 
+I'm frontend developer at Leega 
 
 - 🌱 I’m currently learning ReactJS, React Native and NodeJS.
 
