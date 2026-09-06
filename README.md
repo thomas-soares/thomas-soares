@@ -13,7 +13,7 @@ Minha principal experiência está na construção e modernização de aplicaç�
 - Melhoria de performance, confiabilidade e manutenibilidade por meio de Web Core Vitals, testes automatizados, revisão de código e CI/CD
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-thomasps.vercel.app-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thomasps.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Soares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomassoares-339465a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thomas_Soares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-soares-frontend/)
 
 ## Principais tecnologias
 
